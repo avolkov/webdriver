@@ -1,1 +1,3 @@
 *.jar
+chromedriver.log
+java/chrome/
